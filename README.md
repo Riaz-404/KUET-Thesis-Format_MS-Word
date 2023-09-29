@@ -36,6 +36,6 @@ https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/09cc6094-
 
 <br><br>
 ___
-If you like this project, star the project. <br><br>
+If you like this project, star ⭐ the project. <br><br>
 Thanks.
 
