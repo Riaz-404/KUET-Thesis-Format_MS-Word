@@ -24,12 +24,17 @@ https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/4bee2464-
 https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/d4b816ab-339f-4ce9-a7f4-598c32c82b96
 
 ### Table of Content
-Table of Content is made using table. So modification any content needs to manually updae the whole table of content. To add a new content just `right click` the mouse button and then `insert` and then `Insert Rows Above/Below`. Then you need to manually update the page no of the rest contents.<br><br>
+Table of Content is made using table. So modification any content needs to manually updae the whole table of content. To add a new content just `right click` the mouse button and then `Insert` and then `Insert Rows Above/Below`. Then you need to manually update the page no of the rest contents.<br><br>
 <img src="https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/1dec4896-ccb5-4733-9f82-70ba32052e70" width="90%" alt="screenshot">
 
 ### References
 For referencing, I recommend to use reference management software like Zotero. <br>
-https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/59d35b54-83c5-49ae-8cb3-de7a6ddd70c0
+
+
+
+https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/19da5088-d459-4378-8926-188e40b7cec9
+
+
 
 ## Support
 If you find this template helpful, star ⭐ the project. <br><br>
