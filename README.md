@@ -33,9 +33,7 @@ For referencing, I recommend to use reference management software like Zotero. <
 
 https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/09cc6094-484d-490e-84a4-5a3359534736
 
-
-<br>
-### Support
+## Support
 If you find this template helpful, star ⭐ the project. <br><br>
 Thanks.
 
