@@ -9,31 +9,27 @@ During thesis book writing, every student face problem to match the thesis forma
 # Instructions
 ### Main Body Text:
 <p>
-<img src="https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/799acd99-7843-47d9-90fe-3c81c5dc73af" width="90%" alt="screenshot">
+<img src="https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/8759e239-6e8d-4c10-98eb-e14dcf43b22d" width="90%" alt="screenshot">
 </p>
 
-https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/51d98da5-4964-49c9-ac98-e9eaba15ed81
+https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/20aca3fc-6d48-49ec-97d3-8aecae5c5ec1
 
 ### Inserting Table Caption and Lists of Tables
-https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/586f04bd-b6c2-4bf5-a1b8-734f98c44e91
+https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/b7913175-c0e6-4b62-8455-5b5e94c566d5
 
 ### Inserting Figure Caption and Lists of Figures
-https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/fa833a52-5cae-4bfc-a2e5-cd3ca08e0aa4
+https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/4bee2464-5e73-417a-a8b9-8791cbd4d568
 
 ### Indexing
-https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/7cbb529f-d8dd-45e9-a597-d6e96c31f873
+https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/d4b816ab-339f-4ce9-a7f4-598c32c82b96
 
 ### Table of Content
 Table of Content is made using table. So modification any content needs to manually updae the whole table of content. To add a new content just `right click` the mouse button and then `insert` and then `Insert Rows Above/Below`. Then you need to manually update the page no of the rest contents.<br><br>
-<img src="https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/c050eb88-df3a-42f6-bcb5-71551c8962fd"
- width="90%" alt="screenshot">
+<img src="https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/1dec4896-ccb5-4733-9f82-70ba32052e70" width="90%" alt="screenshot">
 
 ### References
 For referencing, I recommend to use reference management software like Zotero. <br>
-
-
-
-https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/09cc6094-484d-490e-84a4-5a3359534736
+https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/59d35b54-83c5-49ae-8cb3-de7a6ddd70c0
 
 ## Support
 If you find this template helpful, star ⭐ the project. <br><br>
