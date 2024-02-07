@@ -2,11 +2,14 @@
 
 This is an undergraduate (BSc-BScEng) and postgraduate (MSc-MScEng-MPhil-PhD) thesis format in Microsoft Word for KUET based on the [KUET Writing style UG.pdf](https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/files/12770176/KUET.Writing.style.UG.pdf) and [Report_Layout.pdf](https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/files/12770181/Report_Layout.pdf). 
 
-During thesis book writing, every student face problem to match the thesis format according to your institution's format. Thats why this thesis format is made with Microsoft Word and freely distributed to ease your thesis writing. Though there are others formatting software like LATEX, but learning those software are time consuming and painful. And moreover almost every student is familiar with Microsoft Word. As I think students should give more focus on their their thesis than on the layout of their thesis books. As Microsoft Word is not ideal for complex styling, some minor modification needed. That's why I strongly recommand to go through the instruction section before using the thesis format. Though this is based on KUET, students from other university can use this format with some minor tweaks and modifications.
+During thesis book writing, every student faces problems in matching the thesis format according to your institution's format. That's why this thesis format is made with Microsoft Word and freely distributed to ease your thesis writing. Though there are other formatting software like LATEX, Typst etc. learning those softwares is time-consuming and painful. Moreover, almost every student is familiar with Microsoft Word. I think students should give more focus on their thesis than on the layout of their thesis books. As Microsoft Word is not ideal for complex styling, some minor modifications are needed. That's why I strongly recommend going through the instruction section before using the thesis format. Though this is based on KUET, students from other universities can use this format with some minor tweaks and modifications.
 
 <i>PS: This is not any official format. So before using this format, match it with the official format providied by your department.</i>
 
 # Instructions
+### Download
+First download this <a href="https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/blob/main/Thesis%20Format.docx">Thesis Format</a> doc file. All the necessary modification should be done on this file.
+
 ### Main Body Text:
 <p>
 <img src="https://github.com/Riaz-404/KUET-Thesis-Format_MS-Word/assets/66328924/8759e239-6e8d-4c10-98eb-e14dcf43b22d" width="90%" alt="screenshot">
